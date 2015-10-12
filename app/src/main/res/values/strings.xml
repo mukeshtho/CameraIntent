@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take a Photo</string>
+    <string name="camera_btn">Open Camera</string>
+    <string name="convert_btn">Blur</string>
+    <string name="cartoon_btn">Cartoon</string>
+    <string name="action_settings">Settings</string>
+</resources>
